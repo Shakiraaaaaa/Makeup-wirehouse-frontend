@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "img": "https://cdn.btyaly.com/wp-content/uploads/2021/06/Face_Sunscreens_Guide_2021_Part_3_Korean_Sunscreens_title.jpg?auto=compress&fit=fit&fm=jpg&focalpoint=focalpoint&fp-x=0.5451209952197138&fp-y=0.601821254468366&h=276&ixlib=php-3.3.1&w=424",
+        "name": "toner",
+        "price": "300",
+        "description": "keep your skin hydrated with toner",
+        "quantity": "1"
+    },
+    {
+        "id": "2",
+        "img": "https://www.kablewala.com.bd/images/detailed/128/The_Body_Shop_Seaweed_Oil-Control_Gel_Cream-_50ml.jpg",
+        "name": "Sea weed moisturizer",
+        "price": "300",
+        "description": "apply moisturizer to have a healthy skin",
+        "quantity": "1"
+    },
+    {
+        "id": "3",
+        "img": "https://carnesia.com/wp-content/uploads/2019/12/photo-focus-primer-water.jpg",
+        "name": "Revolution primer",
+        "price": "300",
+        "description": "apply primer to hide pores and imperfection",
+        "quantity": "1"
+    },
+    {
+        "id": "4",
+        "img": "https://2e8xsi33c68y40xn210xncwe-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/wet-n-wild-photo-focus-foundation-review-buff-beige-swatch.jpg",
+        "name": "Wet and wild foundation",
+        "price": "300",
+        "description": "apply foundation to have a smooth and beautiful base",
+        "quantity": "1"
+    },
+    {
+        "id": "5",
+        "img": "https://2e8xsi33c68y40xn210xncwe-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Wet-N-Wild-Photo-Focus-Concealer-Review-Swatches-Wear-Test-11-of-18.jpg",
+        "name": "Wet and wild concealer",
+        "price": "300",
+        "description": "apply concealer hide dark circle",
+        "quantity": "1"
+    },
+    {
+        "id": "6",
+        "img": "https://shop.shajgoj.com/wp-content/uploads/2021/11/Absolute-New-York-Icon-Eyeshadow-Palette-Warm-Nights-1.jpg",
+        "name": "Absolute new york eye shadow",
+        "price": "300",
+        "description": "eye shadow to make your eye attractive",
+        "quantity": "1"
+    },
+    {
+        "id": "7",
+        "img": "https://www.makeup.com/-/media/project/loreal/brand-sites/mdc/americas/us/articles/2019/01_january/11-blush/best-cream-blushes-hero-mudc-011119.jpg",
+        "name": "Mac blush",
+        "price": "300",
+        "description": "use blush to have rosy cheeks",
+        "quantity": "1"
+    },
+    {
+        "id": "8",
+        "img": "https://i.pinimg.com/originals/24/1a/ec/241aec106383d420a1c05e9734d9bd6d.jpg",
+        "name": "Absolute new york ",
+        "price": "300",
+        "description": "beautiful 3 in 1 palette",
+        "quantity": "1"
+    },
+    {
+        "id": "9",
+        "img": "https://3.bp.blogspot.com/-O-ElONvqRuk/WOKdgyQxbjI/AAAAAAAAVGI/jaqDGFK49KMDNlQkvPJvKjNqouoQfTLFwCLcB/s1600/1%2B20%2BMac%2Blipstick%2Bswatched%2Bplus%2Btheir%2Bdupes.JPG",
+        "name": "Mac lipstick",
+        "price": "300",
+        "description": "obsessed with lipstick ",
+        "quantity": "1"
+    }
+]
